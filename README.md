@@ -1,1 +1,1 @@
-# Netflix-clone
+The Netflix Clone Website, built exclusively with HTML and CSS, is a static web representation inspired by the popular streaming platform. This project mimics the Netflix interface, featuring a recognizable header with the Netflix logo and navigation links, a visually appealing hero section showcasing featured content, and category sections presenting movie or TV show thumbnails.
